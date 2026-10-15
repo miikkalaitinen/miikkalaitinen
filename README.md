@@ -1,6 +1,7 @@
-Hi, and welcome to my Github profile!
+## Hi, I'm Miikka 👋
 
-I'm a 26-year old Finn studying Information networks at [Aalto University](https://www.aalto.fi/en) and working as a fullstack developer at [Webso](https://www.webso.fi).
+I'm a software engineer from Finland, currently finishing my master's degree in Information Networks at [Aalto University](https://www.aalto.fi/en), specializing in Software Engineering and Architectures.
 
-I enjoy both frontend and backend development. I have good skills in with modern technologies such as React, Typescript, Python Fastapi and Node.js as well as experience with sites using PHP.
-My programming language experience include JS/TS, Python, PHP, Scala, C++ and C.
+I enjoy building software end to end, from understanding what users need and shaping a product to figuring out the technical details and bringing that vision to reality. 
+
+I am currently focusing on AI agents, workflows, and aagent self-tooling in my master's thesis. 
